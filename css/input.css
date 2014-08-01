@@ -1,0 +1,7 @@
+.por-select-container .acf-loading {
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin: 10px;
+	display: none;
+}
